@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "exif-data.h": "c",
+        "exif-mem.h": "c",
+        "exif-content.h": "c",
+        "exif-format.h": "c"
+    }
+}
